@@ -1,0 +1,23 @@
+.user_card {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    min-height: 32px;
+    padding: 5px;
+}
+
+.user_icon {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #007bff;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+  
+.user_block {
+    font-size: 13px;
+}
